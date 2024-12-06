@@ -168,7 +168,7 @@ h2 {
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 432px;
-    padding: 75px 32px;
+    padding: 75px 25px;
 }
 .study-image {
     background-image: url(../images/close-back.png);
